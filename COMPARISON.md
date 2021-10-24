@@ -23,3 +23,7 @@
 > npm i -g @nestjs/cli
 > nest new <app-name>
 ```
+
+### To Start Dev Server
+
+`npm run start`
